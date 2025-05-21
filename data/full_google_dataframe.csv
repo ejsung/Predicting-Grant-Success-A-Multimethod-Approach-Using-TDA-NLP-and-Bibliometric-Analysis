@@ -1,0 +1,497 @@
+Lead Investigator Name,Lead Investigator Organization Name,h_index,h_index_recent (Since 2019),i10_index,i10_index_recent (Since 2019),total_citations,recent_citations (Since 2019),Verified Google Affiliation Match,Origin: Google (G) or Semantic (S)
+"Pleshet,Noah O.",Bur of Applied Rsch in Anthro,,,,,,,False,S
+"Hopkins,Maren P.",Bur of Applied Rsch in Anthro,,,,,,,False,S
+"Bernstein,Harris",Cellular & Molecular Medicine,53.0,22.0,120.0,45.0,10544.0,2187.0,True,G
+"Brusseau,Mark L.",Environmental Science-Res,7.0,7.0,7.0,6.0,363.0,297.0,False,G
+"Burd,Randy M.",Nutritional Sci Wellness - RES,45.0,30.0,146.0,108.0,6343.0,3360.0,False,G
+"Cranmer,Lee Duncan",Cancer Center Division,,,,,,,False,S
+"Dereniak,Eustace L.",James C Wyant Coll Optical Sci,,,,,,,False,S
+"Djordjevic,Ivan B.",Electrical and Computer Engr,59.0,36.0,272.0,130.0,13923.0,5298.0,True,G
+"Sorooshian,Armin",Chemical & Environmental Engr,66.0,51.0,202.0,197.0,14136.0,8890.0,True,G
+"Fasel,Hermann F.",Aerospace & Mechanical Engr,43.0,31.0,181.0,90.0,8890.0,3674.0,True,G
+"Galbraith,David W.",BIO5 Institute,71.0,36.0,157.0,87.0,23914.0,7088.0,True,G
+"Shaked,Moshe",Mathematics,50.0,20.0,144.0,43.0,15659.0,3976.0,True,G
+"Gervasio,Dominic F.",Chemical & Environmental Engr,22.0,12.0,31.0,16.0,2051.0,996.0,True,G
+"Thakur,Dinesh S.",Mathematics,3.0,3.0,2.0,2.0,76.0,76.0,True,G
+"Goodman,Nathan A.",Electrical and Computer Engr,29.0,20.0,56.0,32.0,3354.0,1554.0,False,G
+"Futscher,Bernard W.",Cancer Center Division,57.0,25.0,91.0,47.0,9305.0,1587.0,False,G
+"Khitrova,Galina",James C Wyant Coll Optical Sci,49.0,18.0,125.0,40.0,12689.0,2326.0,True,G
+"Kobourov,Stephen G.",Computer Science,61.0,32.0,176.0,115.0,11576.0,4592.0,True,G
+"Tyo,J. Scott",James C Wyant Coll Optical Sci,,,,,,,,S
+"Lysecky,Roman L.",Electrical and Computer Engr,25.0,13.0,65.0,23.0,3201.0,1197.0,True,G
+"Maier,Robert S.",Mathematics,25.0,16.0,39.0,21.0,2703.0,741.0,True,G
+"Momayez,Moe",Mining & Geological Engr,17.0,12.0,28.0,19.0,756.0,443.0,True,G
+"Kundu,Tribikram",Civil Arch Engr and Mechanics,57.0,34.0,226.0,120.0,11232.0,4547.0,True,G
+"Polynkin,Pavel G.",James C Wyant Coll Optical Sci,,,,,,,,S
+"Peyghambarian,Nasser N.",James C Wyant Coll Optical Sci,60.0,31.0,243.0,104.0,19401.0,4636.0,True,G
+"Ramasubramanian,Srinivasa",Electrical and Computer Engr,,,,,,,,S
+"Ridgdill,Penny C.",Mathematics,,,,,,,,S
+"Ritchie,Elizabeth A.",Institute Atmospheric Physics,31.0,23.0,49.0,41.0,4980.0,1921.0,False,G
+"Restifo,Linda L.",Neuroscience,28.0,13.0,35.0,16.0,3993.0,1217.0,True,G
+"Sandhu,Arvinder",Physics,28.0,16.0,40.0,26.0,2620.0,872.0,True,G
+"Sanfelice,Ricardo G.",Aerospace & Mechanical Engr,38.0,30.0,141.0,92.0,10625.0,5658.0,False,G
+"Zarnescu,Daniela C.",Molecular and Cellular Biology,32.0,24.0,43.0,37.0,4866.0,2270.0,False,G
+"Villarreal,Miguel L.",Sch of Nat Resource&Enviro-Res,22.0,18.0,37.0,30.0,1209.0,900.0,False,G
+"Zhang,Lianyang",Chemical & Environmental Engr,58.0,52.0,123.0,108.0,12415.0,8618.0,True,G
+"Zohar,Yitshak",Aerospace & Mechanical Engr,,,,,,,,S
+"Enikov,Eniko T.",Aerospace & Mechanical Engr,20.0,12.0,41.0,12.0,1659.0,471.0,True,G
+"Pau,Stanley K. H.",James C Wyant Coll Optical Sci,8.0,8.0,7.0,7.0,185.0,185.0,False,G
+"Malusa,James R.",Sch of Nat Resource&Enviro-Res,10.0,5.0,11.0,4.0,333.0,111.0,True,G
+"Krunz,Marwan M.",Electrical and Computer Engr,64.0,30.0,217.0,100.0,15870.0,3696.0,True,G
+"Missoum,Samy",Aerospace & Mechanical Engr,23.0,17.0,41.0,26.0,2048.0,1057.0,True,G
+"Dettman,David L.",Geosciences,,,,,,,,S
+"Kolesik,Miroslav",James C Wyant Coll Optical Sci,45.0,25.0,118.0,56.0,8566.0,2925.0,True,G
+"Hariri,Salim A.",Electrical and Computer Engr,43.0,27.0,162.0,81.0,12482.0,4555.0,True,G
+"Chen,Hsinchun",Management Information Systems,115.0,64.0,511.0,290.0,60174.0,22278.0,True,G
+"Duan,Jennifer Guohong",Civil Arch Engr and Mechanics,26.0,21.0,48.0,34.0,2566.0,1141.0,True,G
+"Neifeld,Mark A.",Electrical and Computer Engr,,,,,,,,S
+"Fehmi,Jeffrey S.",Sch of Nat Resource&Enviro-Res,24.0,15.0,39.0,23.0,1493.0,658.0,True,G
+"Castro,Christopher L.",Institute Atmospheric Physics,34.0,27.0,67.0,57.0,5005.0,2904.0,True,G
+"Cohen,Paul R.",Sch of Info: Sci Tech & Arts,57.0,20.0,186.0,40.0,17704.0,1973.0,False,G
+"Call,Robert E.",Cochise County Office,2.0,2.0,0.0,0.0,4.0,4.0,False,G
+"Schroeder,Joyce A.",Molecular and Cellular Biology,29.0,18.0,41.0,28.0,4431.0,1044.0,True,G
+"Dontsova,Katerina M.",Biosphere 2,34.0,25.0,47.0,43.0,3592.0,1654.0,True,G
+"Sagarin,Raphael D.",AZ Inst for Resilience,22.0,15.0,30.0,19.0,4416.0,1335.0,True,G
+"Woodard,Gary C.",Hydrology and Water Resources,14.0,14.0,18.0,17.0,977.0,702.0,False,G
+"Goode,Matthew J.",Sch of Nat Resource&Enviro-Res,21.0,16.0,23.0,20.0,9200.0,3291.0,False,G
+"Hameroff,Stuart R.",Anesthesiology,53.0,30.0,123.0,58.0,15301.0,4208.0,True,G
+"Powers,Linda S.",Electrical and Computer Engr,47.0,21.0,109.0,37.0,7170.0,1787.0,False,G
+"Peterson,Robert L.",Steward Observatory,73.0,32.0,139.0,96.0,16763.0,3841.0,False,G
+"Moloney,Jerome V.",Mathematics,89.0,33.0,436.0,157.0,30291.0,6135.0,True,G
+"Barton,Jennifer K.",Biomedical Engineering,47.0,25.0,121.0,62.0,10778.0,2348.0,True,G
+"Field,James A.",Chemical & Environmental Engr,90.0,45.0,296.0,183.0,25470.0,6976.0,True,G
+"Hutchinson,Charles F.",Sch of Nat Resource&Enviro-Res,133.0,89.0,398.0,345.0,98690.0,46504.0,False,G
+"Beal,Carole R.",Sch of Info: Sci Tech & Arts,43.0,19.0,88.0,37.0,5959.0,1323.0,False,G
+"Debray,Saumya K.",Computer Science,43.0,21.0,107.0,32.0,9670.0,1717.0,True,G
+"Heimark,Ronald L.",Cancer Center Division,,,,,,,,S
+"Carothers,Daniel N.",James C Wyant Coll Optical Sci,,,,,,,,S
+"Meystre,Pierre",James C Wyant Coll Optical Sci,69.0,29.0,224.0,69.0,19797.0,3713.0,True,G
+"Jessup,Leonard Michael",Eller Administration,,,,,,,,S
+"Algotar,Amit M.",Cancer Center Division,,,,,,,,S
+"Romagnolo,Donato",Nutritional Sci Wellness - RES,,,,,,,,S
+"Valerdi,Ricardo",Systems and Industrial Engr,29.0,17.0,86.0,31.0,3474.0,1035.0,True,G
+"Handa,Robert J.",COM Phx Basic Medical Sci,12.0,9.0,18.0,9.0,798.0,349.0,False,G
+"Lang,Julie E.",Cancer Center Division,37.0,31.0,72.0,61.0,4948.0,3503.0,False,G
+"Moloney,Jerome V.",James C Wyant Coll Optical Sci,89.0,33.0,436.0,157.0,30291.0,6135.0,True,G
+"Little,Jesse C.",Aerospace & Mechanical Engr,26.0,18.0,58.0,39.0,2658.0,1149.0,False,G
+"Cais,Bryden R.",Mathematics,,,,,,,,S
+"Pagel,Mark D.",Biomedical Engineering,82.0,44.0,160.0,94.0,43693.0,10844.0,False,G
+"Romanowski,Marek",Biomedical Engineering,,,,,,,,S
+"Brown,Paul W.",Environmental Science-Ext,89.0,70.0,191.0,177.0,45061.0,21816.0,False,G
+"Matsunaga,Terry O.",Medical Imaging,,,,,,,,S
+"Melde,Kathleen L.",Electrical and Computer Engr,25.0,10.0,49.0,13.0,2154.0,508.0,True,G
+"Zhang,Hao",Mathematics,38.0,26.0,71.0,54.0,7954.0,3845.0,True,G
+"Merkle,Carolyn J.",College of Nursing,,,,,,,,S
+"Wung,Shu Fen",College of Nursing,22.0,13.0,30.0,17.0,1551.0,620.0,True,G
+"Chipman,Russell A.",James C Wyant Coll Optical Sci,,,,,,,,S
+"Corral,Erica L.",Materials Science & Engr,18.0,13.0,28.0,17.0,2257.0,894.0,True,G
+"Milster,Thomas D.",James C Wyant Coll Optical Sci,,,,,,,,S
+"Madenci,Erdogan",Aerospace & Mechanical Engr,55.0,49.0,213.0,149.0,15344.0,9618.0,True,G
+"Jones,Ronald J.",James C Wyant Coll Optical Sci,157.0,59.0,1278.0,420.0,107986.0,17615.0,False,G
+"Wissinger,John W.",James C Wyant Coll Optical Sci,,,,,,,,S
+"LeRoy,Brian J.",Physics,36.0,27.0,48.0,35.0,11701.0,6145.0,True,G
+"Hu,Yi",Mathematics,,,,,,,False,S
+"Tiep,Pham Huu",Mathematics,36.0,21.0,114.0,76.0,4322.0,1991.0,False,G
+"Sharifi,Romyar T.",Mathematics,14.0,11.0,17.0,11.0,583.0,301.0,True,G
+"Tome,Margaret E.",Pathology and Lab Medicine,,,,,,,,S
+"Loy,Douglas A.",Materials Science & Engr,45.0,26.0,116.0,51.0,11233.0,2242.0,True,G
+"Smith,Catharine L.",Pharmacology and Toxicology,52.0,43.0,87.0,80.0,29341.0,12459.0,False,G
+"Landowski,Terry H.",Cancer Center Division,29.0,15.0,41.0,22.0,19493.0,7428.0,True,G
+"Selmin,Ornella",Nutritional Sci Wellness - RES,,,,,,,,S
+"Myrdal,Paul B.",Pharmacy Practice and Science,32.0,15.0,75.0,32.0,3242.0,1115.0,True,G
+"Xin,Hao",Electrical and Computer Engr,50.0,35.0,154.0,95.0,8928.0,5029.0,True,G
+"Zenhausern,Frederic",COM Phx NanoBioscience & Med,41.0,24.0,94.0,57.0,8230.0,2862.0,False,G
+"Kudenov,Michael W.",James C Wyant Coll Optical Sci,28.0,22.0,54.0,43.0,4035.0,2610.0,False,G
+"Rasmussen,Craig",Environmental Science-Res,42.0,33.0,76.0,68.0,5509.0,3294.0,True,G
+"Zhang,Lianyang",Civil Arch Engr and Mechanics,58.0,52.0,123.0,108.0,12415.0,8618.0,True,G
+"Teske,Jennifer A.",Nutritional Sci Wellness - RES,27.0,19.0,35.0,32.0,2339.0,934.0,True,G
+"Gehm,Michael E.",Electrical and Computer Engr,36.0,22.0,83.0,50.0,9018.0,2791.0,False,G
+"Son,Young-Jun",Systems and Industrial Engr,46.0,29.0,117.0,67.0,6546.0,2862.0,False,G
+"Gallery,Rachel Elizabeth",Sch of Nat Resource&Enviro-Res,25.0,24.0,33.0,30.0,4119.0,2231.0,True,G
+"Koch,Thomas L.",James C Wyant Coll Optical Sci,52.0,13.0,219.0,25.0,13448.0,1277.0,True,G
+"Martinez,Jessica A.",Cancer Center Division,24.0,18.0,66.0,37.0,2307.0,1086.0,False,G
+"Weterings,Eric",Cancer Center Division,,,,,,,,S
+"Raghunand,Natarajan",Cancer Center Division,36.0,24.0,60.0,42.0,8109.0,2574.0,False,G
+"Breidenbach III,Warren C.",Surgery,,,,,,,,S
+"Weinstein,Ronald S.",Arizona Telemedicine Program,68.0,25.0,233.0,61.0,20049.0,3595.0,False,G
+"Burgoon,Judee K.",Ctr for Mgmt of Information,100.0,56.0,287.0,187.0,49708.0,15434.0,True,G
+"Gunatilaka,Leslie",Sch of Nat Resource&Enviro-Res,63.0,35.0,211.0,120.0,13831.0,4798.0,True,G
+"Pater,Susan E.",Cochise County Office,27.0,20.0,43.0,32.0,3640.0,1913.0,False,G
+"Gniady,Christopher",Computer Science,17.0,10.0,25.0,10.0,1295.0,248.0,True,G
+"Fink,Wolfgang",Electrical and Computer Engr,32.0,18.0,83.0,31.0,3315.0,1093.0,True,G
+"Strausfeld,Nicholas J.",Neuroscience,77.0,32.0,187.0,102.0,19429.0,4048.0,True,G
+"Sethuraman,Sunder",Mathematics,18.0,13.0,35.0,19.0,1164.0,474.0,True,G
+"Deymier,Pierre A.",Materials Science & Engr,43.0,30.0,152.0,81.0,10479.0,4035.0,False,G
+"Nichols,Shaun B.",Philosophy,60.0,42.0,136.0,100.0,19795.0,6878.0,True,G
+"Nadel,Lynn",Psychology,,,,,,,,S
+"Hamill Skoch,Sarah K.",Psychiatry,6.0,3.0,4.0,2.0,470.0,231.0,False,G
+"Milward,Hendree Brinton",School of Govt & Public Policy,,,,,,,,S
+"Robey,Ian F.",Asthma/Airway Disease Rsch Ctr,2.0,2.0,1.0,1.0,21.0,21.0,False,G
+"Sprinkle,Jonathan",Electrical and Computer Engr,30.0,22.0,71.0,46.0,6098.0,2543.0,False,G
+"Alexander,Gene E.",Psychology,92.0,50.0,188.0,143.0,31209.0,10837.0,True,G
+"Astroth,Kirk A.",Extension Programs,12.0,4.0,16.0,2.0,567.0,76.0,True,G
+"Collberg,Christian S.",Computer Science,38.0,22.0,61.0,38.0,10365.0,2434.0,True,G
+"Najafi,Bijan",Surgery,68.0,55.0,210.0,187.0,17420.0,10206.0,False,G
+"Liao,Haitao",Systems and Industrial Engr,39.0,30.0,101.0,78.0,6667.0,4000.0,False,G
+"Jacob,Abraham",Surgery,67.0,21.0,324.0,50.0,20277.0,2809.0,False,G
+"Martinez,Jesse D.",Cancer Center Division,7.0,7.0,7.0,7.0,268.0,267.0,False,G
+"Denton,M. Bonner",Chemistry & Biochemistry - Sci,44.0,15.0,137.0,23.0,6742.0,1063.0,True,G
+"Jessen,Poul S.",James C Wyant Coll Optical Sci,36.0,24.0,52.0,37.0,7031.0,1635.0,True,G
+"Megdal,Sharon B.",Water Resources Rsch Ctr-Res,,,,,,,,S
+"Morrison,Clayton T.",Sch of Info: Sci Tech & Arts,19.0,13.0,31.0,14.0,1098.0,577.0,True,G
+"Mouneimne,Ghassan",Cellular & Molecular Medicine,28.0,22.0,37.0,32.0,4918.0,2013.0,False,G
+"Abrell,Leif M.",Environmental Science-Res,,,,,,,,S
+"Witte,Marlys H.",Surgery,,,,,,,,S
+"Breiger,Ronald L.",Sociology,38.0,23.0,73.0,41.0,12690.0,3167.0,True,G
+"Marcellin,Michael W.",Electrical and Computer Engr,44.0,19.0,136.0,35.0,15062.0,2912.0,True,G
+"Guerriero Jr,Vincent",Animal&Biomedical Sciences-Res,,,,,,,,S
+"Surdeanu,Mihai",Sch of Info: Sci Tech & Arts,47.0,32.0,109.0,72.0,20892.0,10157.0,True,G
+"Mainhagu,Jon",Environmental Science-Res,,,,,,,,S
+"Khanna,Rajesh",Pharmacology,51.0,40.0,159.0,137.0,8281.0,4967.0,True,G
+"Pelletier,Jon D.",Geosciences,50.0,33.0,131.0,92.0,9304.0,4776.0,True,G
+"Killgore,William",Psychiatry,74.0,52.0,206.0,174.0,21910.0,11870.0,True,G
+"Sternberg,Esther M.",Andrew Weil Ctr Intgrtv Med,68.0,43.0,167.0,82.0,23774.0,6451.0,True,G
+"Jacobs,Jeffrey W.",Aerospace & Mechanical Engr,28.0,23.0,36.0,28.0,3386.0,1154.0,True,G
+"Gu,Jian",COM Phx NanoBioscience & Med,12.0,9.0,15.0,9.0,1457.0,431.0,True,G
+"Meuillet,Emmanuelle J.",Nutritional Sci Wellness - RES,34.0,18.0,61.0,40.0,4419.0,1392.0,False,G
+"Brooks,Heddwen L.",Physiology,39.0,22.0,70.0,52.0,7048.0,2892.0,True,G
+"Bao,Shaowen",Physiology,34.0,21.0,54.0,41.0,6868.0,1736.0,True,G
+"Zeng,Xubin",Institute Atmospheric Physics,74.0,51.0,222.0,174.0,27641.0,13467.0,True,G
+"Larmonier,Nicolas",Pediatrics,36.0,22.0,54.0,37.0,5881.0,2014.0,False,G
+"Bever,Thomas G.",Linguistics,73.0,23.0,171.0,50.0,27617.0,2921.0,True,G
+"Kraft,Andrew",Cancer Center Division,,,,,,,,S
+"Ramirez,Monica D.",Environmental Science-Res,21.0,20.0,30.0,30.0,1520.0,1226.0,True,G
+"Thomas,Kelland K.",School of Information,3.0,2.0,0.0,0.0,18.0,10.0,False,G
+"Koshel,Richard J.",James C Wyant Coll Optical Sci,,,,,,,False,S
+"Walker,Christopher K.",Steward Observatory,97.0,55.0,288.0,185.0,40997.0,13556.0,False,G
+"Wygnanski,Israel J.",Aerospace & Mechanical Engr,60.0,34.0,149.0,75.0,17367.0,3928.0,True,G
+"Surdeanu,Mihai",Computer Science,47.0,32.0,109.0,72.0,20892.0,10157.0,True,G
+"Chavez-Pirson,Arturo",James C Wyant Coll Optical Sci,32.0,19.0,74.0,37.0,3577.0,986.0,False,G
+"Cohen,Paul R.",School of Information,57.0,20.0,186.0,40.0,17704.0,1973.0,False,G
+"Nelson,Mark A.",Pathology and Lab Medicine,106.0,54.0,266.0,178.0,42593.0,9455.0,False,G
+"Makino,Ayako",Physiology,,,,,,,,S
+"Garfin,Gregg M.",AZ Inst for Resilience,30.0,22.0,51.0,36.0,3908.0,1962.0,True,G
+"Lega,Joceline C.",Mathematics,,,,,,,,S
+"Dokken,Betsy B.",Medicine,,,,,,,,S
+"Witte,Russell S.",Medical Imaging,15.0,13.0,23.0,21.0,884.0,765.0,False,G
+"Morzfeld,Matthias",Mathematics,24.0,19.0,42.0,36.0,1717.0,994.0,False,G
+"Zhong,Hua",Environmental Science-Res,,,,,,,False,S
+"Chavarria,Sara P.",Teachg Learning Sociocult Stds,,,,,,,False,S
+"Valdes,Juan B.",Hydrology and Water Resources,44.0,26.0,95.0,46.0,8258.0,2276.0,True,G
+"Sun,Daekyu",Pharmacology and Toxicology,,,,,,,False,S
+"Morrison,Clayton T.",School of Information,19.0,13.0,31.0,14.0,1098.0,577.0,True,G
+"Valdes,Juan B.",Hydrology & Atmospheric Sci,44.0,26.0,95.0,46.0,8258.0,2276.0,True,G
+"Renquist,Benjamin J.",Animal&Biomedical Sciences-Res,15.0,15.0,19.0,17.0,1385.0,1076.0,True,G
+"Kieu,Khanh Q.",James C Wyant Coll Optical Sci,40.0,29.0,79.0,59.0,6064.0,3050.0,True,G
+"Brown,Susan A.",Management Information Systems,44.0,33.0,69.0,55.0,20161.0,10255.0,True,G
+"Mcguire,Luke A.",Geosciences,25.0,24.0,38.0,33.0,1875.0,1681.0,True,G
+"Sierra Alvarez,Maria Reyes",Chemical & Environmental Engr,32.0,17.0,64.0,31.0,2976.0,927.0,False,G
+"Cummins,Kenneth L.",Hydrology & Atmospheric Sci,45.0,30.0,113.0,57.0,10619.0,2996.0,True,G
+"Zaritsky,Dennis F.",Steward Observatory,99.0,58.0,301.0,225.0,37604.0,15097.0,True,G
+"Zhupanska,Olesya",Aerospace & Mechanical Engr,,,,,,,,S
+"Miranti,Cynthia",Cellular & Molecular Medicine,34.0,22.0,58.0,44.0,20236.0,7973.0,False,G
+"Culver,Melanie",Sch of Nat Resource&Enviro-Res,28.0,16.0,54.0,31.0,9625.0,1363.0,True,G
+"Jorgensen,Miriam R.",Udall Center,18.0,14.0,29.0,17.0,1435.0,606.0,True,G
+"Joseph,Bellal A.",Surgery,61.0,49.0,288.0,265.0,15509.0,11766.0,True,G
+"Zakaria,El Rasheid",Surgery,,,,,,,False,S
+"Schaibley,John R.",Physics,22.0,20.0,31.0,28.0,9699.0,7219.0,True,G
+"Alkozei,Anna",Psychiatry,26.0,25.0,41.0,38.0,2085.0,1782.0,False,G
+"Castro,Christopher L.",Hydrology & Atmospheric Sci,34.0,27.0,67.0,57.0,5005.0,2904.0,True,G
+"Apel,Mark B.",Cochise County Office,43.0,16.0,95.0,21.0,6755.0,1641.0,False,G
+"Hart,Michael",James C Wyant Coll Optical Sci,,,,,,,False,S
+"Furenlid,Lars R.",James C Wyant Coll Optical Sci,,,,,,,,S
+"Dontsova,Katerina M.",Environmental Science-Res,34.0,25.0,47.0,43.0,3592.0,1654.0,True,G
+"Hassan,Mohammed Tharwat",Physics,13.0,13.0,14.0,13.0,3013.0,1926.0,True,G
+"Duca,Frank Anthony",Animal&Biomedical Sciences-Res,31.0,25.0,39.0,36.0,3477.0,2235.0,True,G
+"Denno,Jason R.",College of Applied Sci & Tech,,,,,,,,S
+"Achilli,Andrea",Chemical & Environmental Engr,22.0,22.0,30.0,30.0,6130.0,3146.0,True,G
+"Pearce,Eric C.",Steward Observatory,56.0,38.0,93.0,84.0,18448.0,5937.0,False,G
+"Arabyan,Ara",Engineering Academic Affairs,,,,,,,,S
+"Hamm,Keaton",Mathematics,13.0,11.0,18.0,14.0,562.0,522.0,True,G
+"Levin,Brandon",Mathematics,,,,,,,,S
+"Enquist,Brian J.",Ecology & Evolutionary Biology,107.0,86.0,270.0,245.0,63253.0,31707.0,True,G
+"Rodgers,Kathleen E.",Senior VP Health Sciences,49.0,24.0,186.0,64.0,8320.0,2224.0,False,G
+"Gaffney,Kevin J.",Pharmacology,10.0,7.0,10.0,6.0,852.0,259.0,True,G
+"Yao,Guang",Molecular and Cellular Biology,55.0,50.0,117.0,105.0,16132.0,11726.0,False,G
+"Furfaro,Roberto",Defense & Security Rsch Inst,38.0,33.0,121.0,100.0,4986.0,3998.0,False,G
+"Guo,Bo",Hydrology & Atmospheric Sci,24.0,23.0,40.0,40.0,1905.0,1812.0,True,G
+"Carini,Paul",Environmental Science-Res,20.0,19.0,21.0,20.0,3833.0,2790.0,True,G
+"Chertkov,Michael",Mathematics,55.0,39.0,170.0,99.0,13414.0,6623.0,True,G
+"Behrangi,Ali",Hydrology & Atmospheric Sci,42.0,38.0,99.0,95.0,5983.0,4566.0,True,G
+"Osorio Zago,Francisco Javier",School of Govt & Public Policy,,,,,,,,S
+"Lopez,Elise C.",Social & Behavioral Sci Admin,11.0,11.0,12.0,11.0,491.0,478.0,True,G
+"Kupinski,Meredith Kathryn",James C Wyant Coll Optical Sci,13.0,11.0,18.0,12.0,635.0,434.0,True,G
+"Dong,Xiquan",Hydrology & Atmospheric Sci,44.0,34.0,117.0,101.0,6449.0,3568.0,True,G
+"Ballouz,Ronald",Lunar and Planetary Laboratory,34.0,33.0,67.0,61.0,5089.0,4857.0,False,G
+"Ratcliff,Erin L.",Materials Science & Engr,36.0,27.0,54.0,49.0,5469.0,2811.0,False,G
+"Arnold,Anne E.",School of Plant Sciences-Res,19.0,16.0,28.0,25.0,1436.0,872.0,False,G
+"Kingsley,Jeffrey S.",Steward Observatory,1.0,1.0,1.0,1.0,18.0,18.0,False,G
+"Chorover,Jonathan D.",Environmental Science-Res,74.0,54.0,215.0,172.0,18609.0,8884.0,True,G
+"Su,Tsu-Te Judith",James C Wyant Coll Optical Sci,16.0,15.0,23.0,20.0,927.0,734.0,True,G
+"Montfort,William R.",Chemistry & Biochemistry - Sci,51.0,23.0,80.0,46.0,9470.0,1890.0,False,G
+"Shiri,Sonia",Sch Middle E/N African Studies,10.0,10.0,10.0,10.0,619.0,431.0,False,G
+"Hosmer,Chester",College of Applied Sci & Tech,,,,,,,,S
+"Fallahi,Mahmoud",James C Wyant Coll Optical Sci,1.0,1.0,0.0,0.0,1.0,1.0,False,G
+"Ratcliff,Erin L.",Chemical & Environmental Engr,36.0,27.0,54.0,49.0,5469.0,2811.0,False,G
+"Guha,Saikat",James C Wyant Coll Optical Sci,47.0,37.0,135.0,109.0,9988.0,7022.0,False,G
+"Elliott-Engel,Jeremy",Agric Extension Administration,7.0,7.0,4.0,4.0,122.0,122.0,False,G
+"Taylor,Daniel",Psychology,54.0,42.0,134.0,112.0,14051.0,7482.0,True,G
+"Kerschen,Edward J.",Aerospace & Mechanical Engr,,,,,,,,S
+"Brady,David",James C Wyant Coll Optical Sci,71.0,42.0,271.0,141.0,22090.0,9455.0,True,G
+"Brady,Anthony John Ray",Electrical and Computer Engr,11.0,11.0,11.0,11.0,422.0,421.0,False,G
+"MacLean,Evan",Vet Med Administration,40.0,35.0,60.0,56.0,5499.0,4180.0,True,G
+"Fan,Linran",James C Wyant Coll Optical Sci,21.0,18.0,32.0,31.0,2099.0,1495.0,False,G
+"Driggers,Ronald G.",James C Wyant Coll Optical Sci,30.0,16.0,90.0,25.0,4410.0,1223.0,False,G
+"Honomichl,Robert J.",College of Applied Sci & Tech,1.0,1.0,0.0,0.0,6.0,6.0,True,G
+"Lee,Grace",Pharmacology,73.0,50.0,174.0,147.0,21333.0,13254.0,False,G
+"Adhikari,Srikar R.",Dept of Emergency Medicine,38.0,31.0,82.0,70.0,6971.0,3781.0,True,G
+"Wilson,Dalziel",James C Wyant Coll Optical Sci,23.0,22.0,28.0,26.0,3403.0,2358.0,True,G
+"Norwood,Robert A.",James C Wyant Coll Optical Sci,,,,,,,,S
+"Kim,Hee Jeong",Civil Arch Engr and Mechanics,,,,,,,,S
+"Rodgers,Kathleen E.",UAHS Brain Science,49.0,24.0,186.0,64.0,8320.0,2224.0,False,G
+"Austin,Diane E.",Bur of Applied Rsch in Anthro,53.0,37.0,97.0,64.0,16462.0,5207.0,False,G
+"Keswani,Manish K.",Materials Science & Engr,20.0,13.0,38.0,19.0,1311.0,829.0,True,G
+"Sternberg,Ben K.",Materials Science & Engr,9.0,8.0,9.0,7.0,528.0,414.0,False,G
+"Mehl,Matthias R.",Psychology,,,,,,,,S
+"Liu,Jian",Systems and Industrial Engr,22.0,17.0,37.0,27.0,1770.0,1123.0,True,G
+"Roveda,Janet Meiling",Electrical and Computer Engr,25.0,18.0,46.0,27.0,3849.0,2050.0,True,G
+"Tumin,Anatoli",Aerospace & Mechanical Engr,28.0,17.0,65.0,27.0,2898.0,953.0,True,G
+"Hao,Qing",Aerospace & Mechanical Engr,36.0,28.0,61.0,57.0,10674.0,4769.0,True,G
+"Swinteck,Nichlas Z.",Materials Science & Engr,,,,,,,,S
+"Gangopadhyay,Palash",James C Wyant Coll Optical Sci,22.0,12.0,31.0,14.0,1346.0,388.0,False,G
+"Gaylor,David",Aerospace & Mechanical Engr,14.0,10.0,21.0,10.0,747.0,347.0,False,G
+"Jah,Moriba K.",Engineering Academic Affairs,33.0,25.0,90.0,61.0,3867.0,2318.0,False,G
+"Zhang,Zheshen",Materials Science & Engr,33.0,29.0,48.0,46.0,3964.0,3196.0,False,G
+"Furfaro,Roberto",Systems and Industrial Engr,38.0,33.0,121.0,100.0,4986.0,3998.0,False,G
+"Zhuang,Quntao",Electrical and Computer Engr,31.0,31.0,66.0,64.0,3166.0,3001.0,False,G
+"Runge,Keith A.",Materials Science & Engr,,,,,,,,S
+"Diao,Wenhao",Center for East Asian Studies,14.0,12.0,17.0,16.0,682.0,554.0,True,G
+"Zhu,Xiushan",James C Wyant Coll Optical Sci,,,,,,,,S
+"Kaneda,Yushi",James C Wyant Coll Optical Sci,,,,,,,,S
+"Rozenblit,Jerzy W.",Electrical and Computer Engr,29.0,12.0,82.0,18.0,3126.0,789.0,True,G
+"Ashok,Amit",James C Wyant Coll Optical Sci,22.0,13.0,32.0,17.0,2570.0,1699.0,False,G
+"Sinha,Kanupriya",James C Wyant Coll Optical Sci,,,,,,,,S
+"Akoglu,Ali",Electrical and Computer Engr,19.0,15.0,38.0,20.0,2066.0,913.0,True,G
+"Soh,Daniel",James C Wyant Coll Optical Sci,23.0,13.0,37.0,17.0,1927.0,638.0,True,G
+"Fan,Neng",Systems and Industrial Engr,21.0,18.0,35.0,34.0,1420.0,983.0,True,G
+"Tandon,Ravi",Electrical and Computer Engr,37.0,30.0,91.0,60.0,4696.0,2835.0,True,G
+"Thangavelautham,Jekan",Aerospace & Mechanical Engr,25.0,19.0,56.0,46.0,1662.0,1272.0,True,G
+"Su,Tsu-Te Judith",Biomedical Engineering,16.0,15.0,23.0,20.0,927.0,734.0,True,G
+"Craig,Stuart",Aerospace & Mechanical Engr,8.0,8.0,6.0,6.0,308.0,266.0,True,G
+"Latypov,Marat",Materials Science & Engr,20.0,16.0,25.0,22.0,1132.0,830.0,True,G
+"Eichenfield,Matthew",James C Wyant Coll Optical Sci,22.0,20.0,34.0,31.0,6253.0,2844.0,True,G
+"Rengaswamy,Narayanan",Electrical and Computer Engr,11.0,11.0,12.0,12.0,361.0,350.0,True,G
+"Willomitzer,Florian H.",James C Wyant Coll Optical Sci,15.0,13.0,25.0,20.0,855.0,733.0,True,G
+"Mcleod,Euan",James C Wyant Coll Optical Sci,27.0,23.0,47.0,41.0,3293.0,1868.0,True,G
+"Krokhmal,Pavlo",Systems and Industrial Engr,21.0,10.0,28.0,11.0,2543.0,844.0,True,G
+"Gutruf,Philipp",Biomedical Engineering,44.0,39.0,58.0,56.0,10030.0,9001.0,True,G
+"Monti Masel,Oliver L. A.",Chemistry & Biochemistry - Sci,,,,,,,,S
+"Lucas,Pierre",Materials Science & Engr,41.0,28.0,108.0,72.0,5498.0,2544.0,True,G
+"Cheng,Jianqiang",Systems and Industrial Engr,15.0,14.0,20.0,17.0,653.0,505.0,True,G
+"Blanche,Pierre Alexandre",James C Wyant Coll Optical Sci,58.0,51.0,120.0,112.0,12989.0,9361.0,False,G
+"Runyon II,Johnny Ray",Environmental Science-Res,,,,,,,,S
+"Hazeli,Kavan",Aerospace & Mechanical Engr,26.0,23.0,33.0,31.0,1881.0,1347.0,True,G
+"Yurkiv,Vitaliy",Aerospace & Mechanical Engr,24.0,22.0,43.0,37.0,2350.0,2025.0,True,G
+"Butcher,Eric",Aerospace & Mechanical Engr,38.0,24.0,110.0,55.0,5151.0,2161.0,True,G
+"Seyler,Kyle",James C Wyant Coll Optical Sci,25.0,24.0,29.0,29.0,20471.0,17862.0,True,G
+"Karanikola,Vasiliki",Chemical & Environmental Engr,13.0,12.0,13.0,12.0,1828.0,1705.0,True,G
+"Efrat,Alon",Computer Science,44.0,20.0,74.0,36.0,6130.0,1369.0,True,G
+"Oren,Eyal",Epidemiology and Biostatistics,54.0,48.0,106.0,95.0,97230.0,84127.0,True,G
+"Nazareth,Craig",College of Applied Sci & Tech,,,,,,,,S
+"Guzman,Felipe",James C Wyant Coll Optical Sci,47.0,42.0,86.0,77.0,13614.0,12440.0,True,G
+"Hennessey,Noel",Engineering Academic Affairs,,,,,,,,S
+"Braithwaite,Alex R.",School of Govt & Public Policy,30.0,24.0,40.0,37.0,2728.0,1564.0,True,G
+"Nurullayev,Dmitriy",College of Applied Sci & Tech,3.0,3.0,1.0,0.0,22.0,20.0,True,G
+"Beilstein,Mark A.",School of Plant Sciences-Res,22.0,21.0,32.0,29.0,4176.0,1924.0,True,G
+"Pyarelal,Adarsh",School of Information,8.0,8.0,7.0,7.0,2406.0,2327.0,True,G
+"Sun,Belinda",Pathology and Lab Medicine,,,,,,,,S
+"Navratilova,Edita",Pharmacology,39.0,32.0,72.0,55.0,4833.0,3225.0,True,G
+"Ooi,Aikseng",Pharmacology and Toxicology,,,,,,,,S
+"Worrell,Stephanie G.",Surgery,13.0,13.0,15.0,15.0,673.0,603.0,False,G
+"Cai,Minying",Chemistry & Biochemistry - Sci,29.0,14.0,54.0,24.0,2152.0,693.0,True,G
+"Hastings,Karen Taraszka",COM Phx Dermatology,18.0,14.0,21.0,18.0,999.0,545.0,True,G
+"Riall,Taylor S.",Surgery,,,,,,,,S
+"Heimark,Ronald L.",Surgery,,,,,,,,S
+"Warfel,Noel Andrew",Cellular & Molecular Medicine,22.0,19.0,28.0,26.0,2390.0,1288.0,True,G
+"Cress,Anne E.",Cellular & Molecular Medicine,49.0,25.0,127.0,67.0,9136.0,2063.0,False,G
+"O.'Haire,Marguerite",Vet Med Administration,31.0,30.0,50.0,49.0,4793.0,3736.0,True,G
+"LaVigne,Justin Edward",Pharmacology,6.0,6.0,6.0,6.0,224.0,185.0,False,G
+"Kim,Hee-Dae",COM Phx Basic Medical Sci,12.0,12.0,13.0,12.0,1160.0,731.0,True,G
+"Liu,Chen-wei",COM Phx Basic Medical Sci,13.0,12.0,13.0,13.0,1064.0,863.0,True,G
+"Kopruszinski,Caroline",Pharmacology,15.0,14.0,19.0,17.0,654.0,550.0,False,G
+"Stern,Jennifer H.",Medicine,9.0,9.0,9.0,9.0,2115.0,1567.0,True,G
+"Huskey,Alisa",Psychiatry,5.0,5.0,4.0,4.0,82.0,79.0,True,G
+"Kruer,Michael C.",COM Phx Child Health,42.0,20.0,105.0,51.0,7426.0,1962.0,False,G
+"Porreca,Frank",Pharmacology,128.0,62.0,563.0,275.0,58972.0,14862.0,True,G
+"Kiela,Pawel R.",Pediatrics,45.0,28.0,83.0,58.0,6310.0,3227.0,True,G
+"Ghishan,Fayez K.",Pediatrics,62.0,30.0,221.0,84.0,13819.0,4282.0,False,G
+"Banek,Christopher T.",Physiology,17.0,14.0,22.0,17.0,1103.0,710.0,True,G
+"Zavros,Yana",Cellular & Molecular Medicine,45.0,30.0,85.0,63.0,6682.0,3732.0,True,G
+"Spaite,Daniel W.",COM Phx Emergency Med Rsch Ctr,,,,,,,,S
+"Cherrington,Nathan J.",Pharmacology and Toxicology,,,,,,,,S
+"Schnellmann,Rick G.",Pharmacology and Toxicology,69.0,41.0,220.0,107.0,15745.0,5885.0,False,G
+"Scholpa,Natalie",Pharmacology and Toxicology,13.0,11.0,14.0,14.0,572.0,524.0,True,G
+"Thomas,Theresa C.",COM Phx Child Health,26.0,20.0,34.0,28.0,1788.0,973.0,True,G
+"Funk,Janet L.",Medicine,33.0,22.0,56.0,37.0,4040.0,1743.0,False,G
+"Tassin,Tara Charisse",Sarver Heart Center,8.0,7.0,7.0,5.0,351.0,163.0,False,G
+"Kundu,Anirban",Urology,,,,,,,,S
+"Wang,Lei",Pharmacology and Toxicology,,,,,,,False,S
+"Wondrak,Georg T.",Pharmacology and Toxicology,44.0,29.0,81.0,69.0,7750.0,3341.0,True,G
+"Wang,Wei",Pharmacology and Toxicology,85.0,45.0,272.0,198.0,21957.0,7553.0,True,G
+"Arellano,Christopher",Orthopedic Surgery,,,,,,,,S
+"Churko,Jared",Cellular & Molecular Medicine,32.0,28.0,39.0,34.0,5796.0,3827.0,True,G
+"Chignalia,Andreia Zago",Anesthesiology,14.0,12.0,16.0,15.0,1234.0,661.0,True,G
+"Li,Hongmin",Pharmacology and Toxicology,46.0,31.0,87.0,70.0,7803.0,3059.0,True,G
+"Kim,Minkyu",Materials Science & Engr,15.0,13.0,19.0,16.0,921.0,437.0,True,G
+"MacLean,Evan",School of Anthropology,40.0,35.0,60.0,56.0,5499.0,4180.0,True,G
+"Armstrong,Neal R.",Chemistry & Biochemistry - Sci,75.0,30.0,250.0,92.0,21306.0,4152.0,True,G
+"Bredas,Jean-Luc E.",Chemistry & Biochemistry - Sci,174.0,94.0,1019.0,541.0,142892.0,41366.0,True,G
+"Wessman,Andrew",Materials Science & Engr,16.0,14.0,21.0,18.0,1042.0,903.0,True,G
+"Jain,Ravinder",James C Wyant Coll Optical Sci,31.0,22.0,91.0,45.0,4953.0,2226.0,False,G
+"Wertheim,Jason A.",Surgery,,,,,,,,S
+"Sullivan,Sylvia",Chemical & Environmental Engr,16.0,15.0,20.0,17.0,1403.0,1299.0,True,G
+"Elkabbash,Mohamed",James C Wyant Coll Optical Sci,24.0,24.0,38.0,38.0,2578.0,2331.0,True,G
+"Hanquist,Kyle",Aerospace & Mechanical Engr,15.0,14.0,22.0,21.0,596.0,553.0,True,G
+"Wagner,Paul E.",College of Applied Sci & Tech,4.0,4.0,2.0,2.0,41.0,41.0,True,G
+"Jewkes,Thomas A.",College of Applied Sci & Tech,,,,,,,,S
+"Salado Diez,Alejandro",Systems and Industrial Engr,,,,,,,,S
+"Frantziskonis,George N.",Civil Arch Engr and Mechanics,28.0,16.0,67.0,22.0,4066.0,816.0,True,G
+"Fellous,Jean-Marc",Psychology,44.0,28.0,77.0,51.0,14022.0,2882.0,False,G
+"Song,Shang",Biomedical Engineering,13.0,13.0,14.0,14.0,1001.0,757.0,True,G
+"Wilson,Robert C.",Psychology,,,,,,,False,S
+"Smith,William Kolby",Sch of Nat Resource&Enviro-Res,43.0,41.0,63.0,60.0,9688.0,8352.0,True,G
+"Hurley,Laurence",Pharmacology and Toxicology,97.0,53.0,270.0,128.0,38704.0,9734.0,False,G
+"Polt,Robin L.",Chemistry & Biochemistry - Sci,40.0,21.0,90.0,44.0,5115.0,1339.0,True,G
+"Wu,Xiaoyi",Aerospace & Mechanical Engr,2.0,2.0,1.0,1.0,72.0,72.0,False,G
+"Hale,Taben",COM Phx Basic Medical Sci,22.0,15.0,35.0,19.0,1816.0,1057.0,True,G
+"Mansour,Heidi",Pharmacy Practice and Science,42.0,32.0,95.0,75.0,5856.0,3094.0,False,G
+"Mcdermott,Kimberly M.",Cancer Center Division,6.0,5.0,4.0,4.0,94.0,91.0,False,G
+"Oliva,Isabel B.",Medical Imaging,42.0,22.0,89.0,56.0,5396.0,1955.0,False,G
+"Chambers,Setsuko K.",Cancer Center Division,,,,,,,,S
+"Runyan,Raymond B.",Cellular & Molecular Medicine,39.0,21.0,66.0,39.0,8327.0,2804.0,True,G
+"Ignatenko,Natalia",Cancer Center Division,6.0,4.0,4.0,0.0,117.0,61.0,False,G
+"Vaillancourt,Richard R.",Pharmacology and Toxicology,,,,,,,,S
+"Gmitro,Arthur F.",Medical Imaging,38.0,16.0,81.0,25.0,6950.0,1608.0,True,G
+"Jacob,Abraham",Otolaryngology,67.0,21.0,324.0,50.0,20277.0,2809.0,False,G
+"Rouse,Andrew R.",Medical Imaging,13.0,8.0,21.0,6.0,1166.0,206.0,True,G
+"Warfel,Noel Andrew",Cancer Center Division,22.0,19.0,28.0,26.0,2390.0,1288.0,True,G
+"Li,Hong Yu",Pharmacology and Toxicology,,,,,,,False,S
+"Singh,Parminder",Cancer Center Division,6.0,6.0,6.0,6.0,567.0,567.0,True,G
+"Madhavan,Lalitha",Neurology,20.0,14.0,26.0,21.0,1805.0,1017.0,True,G
+"Nfonsam,Valentine N.",Surgery,28.0,25.0,56.0,51.0,2606.0,1918.0,True,G
+"Patel,Hitendra",Cancer Center Division,30.0,22.0,57.0,46.0,3444.0,1886.0,False,G
+"Lussier,Yves A.",BIO5 Institute,49.0,27.0,135.0,73.0,8496.0,2938.0,False,G
+"Qiu,Shenfeng",COM Phx Basic Medical Sci,31.0,22.0,43.0,38.0,3551.0,1448.0,True,G
+"Futscher,Bernard W.",Pharmacology and Toxicology,57.0,25.0,91.0,47.0,9305.0,1587.0,False,G
+"Rodgers,Kathleen E.",Pharmacology,49.0,24.0,186.0,64.0,8320.0,2224.0,False,G
+"Kittles,Rick A.",Surgery,79.0,46.0,224.0,176.0,26965.0,10264.0,False,G
+"Vagner,Josef",BIO5 Institute,25.0,19.0,36.0,28.0,2559.0,1573.0,False,G
+"Hastings,Karen Taraszka",COM Phx Basic Medical Sci,18.0,14.0,21.0,18.0,999.0,545.0,True,G
+"Azorsa,David O.",COM Phx Child Health,,,,,,,,S
+"Boitano,Scott A.",Asthma/Airway Disease Rsch Ctr,,,,,,,,S
+"Hecker,Louise",Medicine,,,,,,,,S
+"Ledford,Julie",Asthma/Airway Disease Rsch Ctr,27.0,21.0,45.0,39.0,3129.0,1942.0,True,G
+"Schnellmann,Rick G.",Pharmacy Administration,69.0,41.0,220.0,107.0,15745.0,5885.0,False,G
+"Batai,Ken",Surgery,,,,,,,,S
+"Gmitro,Arthur F.",Biomedical Engineering,38.0,16.0,81.0,25.0,6950.0,1608.0,True,G
+"Lee,Benjamin R.",Surgery,51.0,26.0,128.0,68.0,7472.0,2323.0,True,G
+"Reyes Reyes,Elsa M.",Medicine,,,,,,,,S
+"Singh,Neha",Cancer Center Division,12.0,10.0,12.0,11.0,444.0,354.0,True,G
+"Rowe,Rachel K.",COM Phx Child Health,27.0,20.0,38.0,32.0,3577.0,1428.0,False,G
+"Wang,Jun",Pharmacology and Toxicology,,,,,,,,S
+"Grandner,Michael",Psychiatry,72.0,66.0,195.0,191.0,26537.0,20919.0,True,G
+"Parthasarathy,Sairam",Medicine,1.0,1.0,0.0,0.0,1.0,1.0,False,G
+"Falk,Torsten",Neurology,21.0,15.0,30.0,20.0,1166.0,596.0,True,G
+"Szivek,John A.",Orthopedic Surgery,,,,,,,,S
+"Margolis,David Stephen",Orthopedic Surgery,117.0,81.0,382.0,309.0,135483.0,81817.0,False,G
+"Ammanamanchi,Sudhakar",COM Phx Internal Medicine,,,,,,,False,S
+"Sharma,Shalini",COM Phx Basic Medical Sci,,,,,,,False,S
+"Colson,Brett",Cellular & Molecular Medicine,15.0,13.0,17.0,14.0,944.0,492.0,True,G
+"Lacombe,Jerome",COM Phx NanoBioscience & Med,17.0,15.0,23.0,22.0,859.0,595.0,True,G
+"Berghout,Joanne",Medicine,24.0,17.0,30.0,24.0,12584.0,7814.0,False,G
+"Ramos,Kenneth",Senior VP Health Sciences,47.0,23.0,167.0,57.0,8931.0,2249.0,False,G
+"Okumura,Koichi",Cancer Center Division,,,,,,,,S
+"Neumayer,Leigh A.",Surgery,60.0,38.0,124.0,85.0,15296.0,5449.0,False,G
+"Walker,Jessica Anne",Speech Language & Hearing Sci,12.0,12.0,13.0,13.0,1007.0,682.0,False,G
+"Batai,Ken",Urology,,,,,,,,S
+"Nawrocki,Steffan",Medicine,,,,,,,,S
+"Sweasy,Joann",Cancer Center Division,,,,,,,,S
+"Curiel,Clara N.",Medicine,,,,,,,,S
+"Crane,Tracy E.",College of Nursing,23.0,23.0,55.0,53.0,2200.0,1994.0,False,G
+"Hernandez-Cortes,Daniel",Cellular & Molecular Medicine,,,,,,,,S
+"Bajaj,Sahil",Psychiatry,21.0,20.0,35.0,33.0,1289.0,1095.0,False,G
+"Satterfield,Brieann",Psychiatry,18.0,18.0,20.0,20.0,1048.0,928.0,False,G
+"Dailey,Natalie S.",Psychiatry,22.0,21.0,32.0,30.0,3943.0,3790.0,True,G
+"Raikes,Adam C.",Psychiatry,16.0,14.0,24.0,20.0,784.0,734.0,True,G
+"Combs,Daniel A.",Pediatrics,38.0,27.0,66.0,52.0,4637.0,2302.0,False,G
+"Van Dyke,Mark E.",Biomedical Engineering,48.0,31.0,105.0,70.0,9655.0,3873.0,True,G
+"Lifshitz,Jonathan",COM Phx Child Health,50.0,39.0,104.0,94.0,8744.0,4371.0,True,G
+"Khanna,May",Pharmacology,36.0,27.0,61.0,50.0,3178.0,1888.0,False,G
+"Romanoski,Casey E.",Asthma/Airway Disease Rsch Ctr,30.0,28.0,40.0,40.0,6291.0,3900.0,True,G
+"Sutphin,George L.",Molecular and Cellular Biology,24.0,20.0,27.0,25.0,4226.0,2079.0,True,G
+"Algotar,Amit M.",Family and Community Medicine,,,,,,,,S
+"Gelmann,Edward P.",Cancer Center Division,93.0,31.0,189.0,74.0,36920.0,4335.0,True,G
+"Hulme,Christopher",Pharmacology and Toxicology,47.0,20.0,117.0,65.0,9342.0,2128.0,True,G
+"Katsanis,Emmanuel",Pediatrics,49.0,26.0,110.0,55.0,7855.0,2550.0,True,G
+"Purdy,John G.",Immunobiology,15.0,11.0,19.0,16.0,888.0,500.0,False,G
+"Lewis,Sara A.",COM Phx Child Health,50.0,26.0,94.0,72.0,8002.0,3071.0,False,G
+"Verhougstraete,Marc",Community Environment & Policy,13.0,13.0,19.0,18.0,734.0,592.0,True,G
+"De Souza,Joao Luis Carvalho",Anesthesiology,,,,,,,False,S
+"Chalasani,Pavani",Cancer Center Division,,,,,,,,S
+"Pu,Jeffrey J.",Cancer Center Division,22.0,19.0,43.0,34.0,3172.0,2424.0,True,G
+"Gregorio,Carol C.",Cellular & Molecular Medicine,50.0,31.0,90.0,68.0,11601.0,3152.0,False,G
+"Hammer,Michael F.",BIO5 Institute,91.0,45.0,188.0,143.0,31788.0,10935.0,True,G
+"Lu,Jianqin",Pharmacology and Toxicology,25.0,20.0,31.0,29.0,2378.0,1686.0,True,G
+"Sawyer,Travis William",James C Wyant Coll Optical Sci,10.0,10.0,10.0,10.0,389.0,373.0,True,G
+"Carew,Jennifer S.",Medicine,11.0,10.0,11.0,10.0,5583.0,2697.0,True,G
+"Lee,Won Hee",COM Phx Basic Medical Sci,26.0,20.0,33.0,30.0,15960.0,7869.0,True,G
+"Persich,Michelle",Psychiatry,13.0,13.0,17.0,17.0,528.0,518.0,False,G
+"Ibrahim,Mohab M.",Anesthesiology,28.0,23.0,39.0,37.0,5549.0,1942.0,True,G
+"Gladysheva,Inna P.",COM Phx Internal Medicine,21.0,13.0,31.0,16.0,1234.0,497.0,True,G
+"Laksari,Kaveh",Biomedical Engineering,21.0,19.0,29.0,27.0,1588.0,1313.0,False,G
+"Hutchinson,Elizabeth B.",Biomedical Engineering,21.0,19.0,29.0,26.0,1870.0,1177.0,True,G
+"Gaffney,Kevin J.",UAHS Brain Science,10.0,7.0,10.0,6.0,852.0,259.0,True,G
+"Kalin,Tatiana",COM Phx Child Health,,,,,,,,S
+"Gelmann,Edward P.",Medicine,93.0,31.0,189.0,74.0,36920.0,4335.0,True,G
+"Pandey,Ritu",Cellular & Molecular Medicine,20.0,16.0,30.0,18.0,13798.0,3022.0,True,G
+"Milnes,Tally M.",Pharmacology,31.0,25.0,64.0,57.0,2675.0,1852.0,False,G
+"Gurtner,Geoffrey C.",Surgery,106.0,74.0,323.0,283.0,52787.0,27239.0,False,G
+"Craig,Zelieann R.",Animal&Biomedical Sciences-Res,20.0,19.0,24.0,21.0,2059.0,1262.0,False,G
+"Eggers,Erika D.",Physiology,17.0,13.0,25.0,20.0,1378.0,457.0,True,G
+"Li,Ming",Electrical and Computer Engr,46.0,39.0,101.0,81.0,12413.0,5661.0,True,G
+"Goeltl,Florian",Biosystems Engineering-Res,25.0,21.0,38.0,33.0,2595.0,1887.0,True,G
+"Bash,Boulat",Electrical and Computer Engr,21.0,19.0,30.0,28.0,3156.0,2515.0,True,G
+"Zhang,Liang",School of Information,8.0,8.0,5.0,3.0,250.0,223.0,True,G
+"Valacich,Joseph S.",Management Information Systems,82.0,43.0,162.0,109.0,34732.0,10057.0,True,G
+"Johnson,Michael D. L.",Immunobiology,17.0,16.0,20.0,20.0,1427.0,1004.0,True,G
+"Gomez,Charles Jonathan",Sociology,11.0,10.0,11.0,10.0,874.0,738.0,True,G
+"Leib,Susan",Gem and Mineral Museum,24.0,13.0,38.0,16.0,1921.0,545.0,False,G
+"Rastgoftar,Hossein",Aerospace & Mechanical Engr,14.0,12.0,26.0,17.0,688.0,489.0,True,G
+"Gagatsos,Christos",Materials Science & Engr,15.0,14.0,19.0,18.0,581.0,517.0,True,G
+"Bheemasetti,Tejo",Civil Arch Engr and Mechanics,15.0,12.0,23.0,21.0,749.0,636.0,True,G
+"Revil Baudard,Benoit",Materials Science & Engr,18.0,14.0,27.0,20.0,990.0,628.0,True,G
+"Gagatsos,Christos",Electrical and Computer Engr,15.0,14.0,19.0,18.0,581.0,517.0,True,G
+"Muralidharan,Krishna",Materials Science & Engr,29.0,22.0,61.0,41.0,2624.0,1292.0,True,G
+"Shafae,Mohammed",Systems and Industrial Engr,7.0,7.0,6.0,6.0,219.0,183.0,True,G
+"Steidl,Robert J.",Sch of Nat Resource&Enviro-Res,30.0,18.0,57.0,34.0,4230.0,1535.0,True,G
+"Martinez,Cathy L.",Agric Extension Administration,11.0,10.0,15.0,10.0,1085.0,739.0,False,G
+"Kesner,Todd D.",Agric Extension Administration,,,,,,,False,S
+"Males,Jared R.",Steward Observatory,42.0,33.0,138.0,112.0,7161.0,4333.0,True,G
+"Shkarayev,Sergey V.",Aerospace & Mechanical Engr,21.0,10.0,46.0,11.0,1497.0,362.0,True,G
+"Reddy Kanupuru,Vishnu V.",Space 4 Center,41.0,30.0,98.0,69.0,5987.0,2675.0,True,G
+"Threadgill,James",Aerospace & Mechanical Engr,10.0,9.0,10.0,8.0,257.0,245.0,True,G
+"Riley,Dean",Mining & Geological Engr,6.0,5.0,4.0,4.0,156.0,117.0,True,G
+"Hahn,David W.",Aerospace & Mechanical Engr,47.0,25.0,110.0,72.0,11007.0,4739.0,True,G
+"Diaz Ordonez,Daniel",Aerospace & Mechanical Engr,,,,,,,False,S
+"Tin,Sammy",Materials Science & Engr,39.0,31.0,95.0,74.0,7776.0,4354.0,True,G
+"Bose,Tamal",Electrical and Computer Engr,6.0,6.0,4.0,4.0,89.0,89.0,False,G
+"Ziolkowski,Richard W.",Electrical and Computer Engr,80.0,50.0,350.0,188.0,29627.0,9799.0,True,G
+"Tubaldi,Eleonora",Aerospace & Mechanical Engr,11.0,11.0,11.0,11.0,416.0,341.0,False,G
+"Reverdy,Paul",Aerospace & Mechanical Engr,14.0,12.0,16.0,12.0,1405.0,596.0,True,G
+"Rosengren,Aaron J.",Aerospace & Mechanical Engr,17.0,15.0,27.0,21.0,1060.0,730.0,False,G
+"Pacheco,Jason",Computer Science,11.0,9.0,12.0,9.0,268.0,213.0,True,G
+"Chalifoux,Brandon D.",James C Wyant Coll Optical Sci,11.0,9.0,13.0,8.0,329.0,242.0,True,G
+"Jun,Kwang-Sung",Computer Science,19.0,18.0,29.0,29.0,1762.0,1479.0,True,G
+"Yan,Xiaodong",Materials Science & Engr,28.0,27.0,40.0,38.0,2824.0,2411.0,True,G
+"Yazdandoost Hamedani,Erfan",Systems and Industrial Engr,9.0,9.0,9.0,9.0,417.0,385.0,True,G
+"Savagatrup,Suchol",Chemical & Environmental Engr,32.0,31.0,42.0,41.0,5431.0,4192.0,True,G
