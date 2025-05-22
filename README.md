@@ -14,3 +14,5 @@ A data-driven exploration of historical DoD grant proposals submitted by Univers
 - **Bibliometric Modeling:** Logistic regression, random forest, and gradient-boosted trees built on h-index, i10-index and citation counts reach up to ~71 % accuracy, with total citations as the strongest predictor.
 
 Our goal: uncover actionable patterns to improve future grant outcomes.
+
+See the attached PDF for the final results.
