@@ -15,4 +15,4 @@ A data-driven exploration of historical DoD grant proposals submitted by Univers
 
 Our goal: uncover actionable patterns to improve future grant outcomes.
 
-See the attached [PDF](final_report/Math_574M_Project_Final_Report (1).pdf) for the final results.
+See the attached [PDF](final_report/Math_574M_Project_Final_Report.pdf) for the final results.
