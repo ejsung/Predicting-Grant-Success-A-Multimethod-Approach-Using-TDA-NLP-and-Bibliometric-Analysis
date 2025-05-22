@@ -1,5 +1,17 @@
+# macOS junk
 .DS_Store
+
+# VS Code settings
+.vscode/
+
+# Specific notebooks (optional: or use *.ipynb if you want to ignore all)
 bibliometric_data_finder.ipynb
 SMLPROJECT.ipynb
-.ipynb_checkpoints
+
+# Ignore checkpoints anywhere in the project
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Ignore the data folder from any location
 data/
+**/data/
